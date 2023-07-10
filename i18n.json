@@ -1,0 +1,127 @@
+{
+  "lan": ["cn", "en", "fr", "fa"],
+  "default": "cn",
+  "data": {
+    "title": {
+      "cn": "Titris",
+      "en": "T E T R I S",
+      "fr": "T E T R I S",
+      "fa": "خانه سازی"
+    },
+
+    "github": {
+      "cn": "GitHub",
+      "en": "GitHub",
+      "fr": "GitHub",
+      "fa": "گیت‌هاب"
+    },
+    "linkTitle": {
+      "cn": "查看源代码",
+      "en": "View data source",
+      "fr": "Afficher la source des données",
+      "fa": "مشاهده سورس پروژه"
+    },
+    "QRCode":{
+      "cn": "二维码",
+      "en": "QR code",
+      "fr": "QR code",
+      "fa": "کیوآر کد"
+    },
+    "titleCenter": {
+      "cn": "TETRIS",
+      "en": "TETRIS",
+      "fr": "TETRIS",
+      "fa": "خانه سازی"
+    },
+    "point": {
+      "cn": "Point",
+      "en": "Point",
+      "fr": "Score",
+      "fa": "امتیاز"
+    },
+    "highestScore": {
+      "cn": "Max",
+      "en": "Max",
+      "fr": "Max",
+      "fa": "حداکثر"
+    },
+    "lastRound": {
+      "cn": "Last Round",
+      "en": "Last Round",
+      "fr": "Dernier Tour",
+      "fa": "آخرین دور"
+    },
+    "cleans": {
+      "cn": "Cleans",
+      "en": "Cleans",
+      "fr": "Lignes",
+      "fa": "پاک کرد"
+    },
+    "level": {
+      "cn": "Level",
+      "en": "Level",
+      "fr": "Difficulté",
+      "fa": "سطح"
+    },
+    "startLine": {
+      "cn": "Start Line",
+      "en": "Start Line",
+      "fr": "Ligne Départ",
+      "fa": "خط شروع"
+    },
+    "next": {
+      "cn": "Next",
+      "en": "Next",
+      "fr": "Prochain",
+      "fa": "بعدی"
+    },
+    "pause": {
+      "cn": "Pause",
+      "en": "Pause",
+      "fr": "Pause",
+      "fa": "مکث"
+    },
+    "sound": {
+      "cn": "Sound",
+      "en": "Sound",
+      "fr": "Sonore",
+      "fa": "صدا"
+    },
+    "reset": {
+      "cn": "Reset",
+      "en": "Reset",
+      "fr": "Réinitialiser",
+      "fa": "ریست"
+    },
+    "rotation": {
+      "cn": "Rotation",
+      "en": "Rotation",
+      "fr": "Rotation",
+      "fa": "چرخش"
+    },
+    "left": {
+      "cn": "Left",
+      "en": "Left",
+      "fr": "Gauche",
+      "fa": "چپ"
+    },
+    "right": {
+      "cn": "Right",
+      "en": "Right",
+      "fr": "Droite",
+      "fa": "راست"
+    },
+    "down": {
+      "cn": "Down",
+      "en": "Down",
+      "fr": "Bas",
+      "fa": "پایین"
+    },
+    "drop": {
+      "cn": "Drop",
+      "en": "Drop",
+      "fr": "Tomber",
+      "fa": "سقوط"
+    }
+  }
+}
